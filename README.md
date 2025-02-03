@@ -1,4 +1,4 @@
-# React + Vite + Three.js
+# 3D Website 
 
 ![image](https://github.com/user-attachments/assets/1aaad0ac-bc7d-4661-8edf-823d274c7160)
 
